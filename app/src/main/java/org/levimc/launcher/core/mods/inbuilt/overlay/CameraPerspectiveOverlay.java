@@ -24,6 +24,6 @@ public class CameraPerspectiveOverlay extends BaseOverlayButton {
 
     @Override
     protected void onButtonClick() {
-        sendKey(KeyEvent.KEYCODE_F5);
+        sendKey(KeyEvent.KEYCODE_SPACE);
     }
 }
