@@ -35,7 +35,7 @@
     </queries>
 
     <application
-        android:name="org.levimc.launcher.core.minecraft.LauncherApplication"
+        android:name="org.levimc.launcher.core.minecraft.LauncherApplicatiogn"
         android:allowBackup="false"
         android:extractNativeLibs="true"
         android:fullBackupContent="false"
